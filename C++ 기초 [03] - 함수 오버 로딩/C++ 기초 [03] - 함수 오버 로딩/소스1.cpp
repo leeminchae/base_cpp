@@ -12,7 +12,7 @@ void print(const char* _n) {
 
 int main() {
 	print(1);
-	print("ÄÄ¸Í¿¡¼­ °³¹ßÀÚ±îÁö");
+	print("ì»´ë§¹ì—ì„œ ê°œë°œìê¹Œì§€");
 
 	return 0;
 }
