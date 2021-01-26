@@ -12,7 +12,7 @@ void print(const char* _n) {
 
 int main() {
 	print(1);
-	print("컴맹에서 개발자까지");
+	print("컴맹에서 개발자까지 ");
 
 	return 0;
 }
